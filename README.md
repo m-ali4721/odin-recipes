@@ -1,0 +1,1 @@
+The repo refers to creating a very basic HTML based website containing recipes. The recipes have been placed in recipe folder and integrated with index.
